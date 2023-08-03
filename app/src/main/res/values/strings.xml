@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">WeatherApplication</string>
     <string name="title_activity_main">MainActivity</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_1">BUGÜN</string>
+    <string name="tab_text_2">YARIN</string>
+    <string name="tab_text_3">14 GÜN</string>
 </resources>
